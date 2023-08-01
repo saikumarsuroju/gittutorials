@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "97812b9f-411a-4f84-b7b7-b0a49d8ca14c": {
+      "ProjectGuid": "97812b9f-411a-4f84-b7b7-b0a49d8ca14c",
+      "DisplayName": "HiveApplication1",
+      "ColorIndex": 0
+    },
+    "16801090-6c6f-4e0c-bd6b-c7b1a5a7039d": {
+      "ProjectGuid": "16801090-6c6f-4e0c-bd6b-c7b1a5a7039d",
+      "DisplayName": "new.py",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
